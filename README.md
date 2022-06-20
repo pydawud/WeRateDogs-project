@@ -1,4 +1,4 @@
-!['WeRateDog'](../master/datasets/img.jpg)
+!['WeRateDog'](../datasets/img.jpg)
 # WeRateDogs Data Wrangling
 This project is one of the three projects undertaken during the Udacity Data Analysis Nanodegree program, The Dataset is from the popular Twitter account [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) with the username [@dog_rates](https://twitter.com/dog_rates) with over 9m followers on Twitter downloaded their Twitter archive and sent it to Udacity via email exclusively to be used in this project. The archive contains basic tweet data (tweet ID, timestamp, text, etc.) not later than August 1, 2017. The tweets are about rating dogs with humorous comments with a rating of 10-15 for Numerators and 10 for the denominator along with the dog stages, the stages can be doggo, floofer, pupper, and puppo. For example:
 > This is Phineas. He's a mystical boy. Only ever appears in the hole of a donut. 13/10 https://t.co/MgUWQ76dJU
